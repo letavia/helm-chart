@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  orion:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-10-08T13:46:43.8040983+02:00
+    description: A Helm chart for Kubernetes
+    digest: 00c8bee9268e69f5e2bf617270cc1b4e918f44c3b8e7cff1034dbee87eef1bf2
+    name: orion
+    urls:
+    - https://letavia.github.io/helm-chart/orion-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-10-08T13:46:43.7996331+02:00
