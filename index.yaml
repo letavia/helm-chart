@@ -3,7 +3,7 @@ entries:
   authzforce:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-06-23T09:45:06.1351589+02:00
+    created: 2019-06-23T10:16:14.0837127+02:00
     description: A Helm chart for Kubernetes
     digest: 5b9b6a099e8869b152a34420317157ac5b9eec51cc5b75201434b0b72e04dd31
     name: authzforce
@@ -13,7 +13,7 @@ entries:
   elasticsearch:
   - apiVersion: v1
     appVersion: 6.7.0
-    created: 2019-06-23T09:45:06.1832178+02:00
+    created: 2019-06-23T10:16:14.0867154+02:00
     description: Flexible and powerful open source, distributed real-time search and
       analytics engine.
     digest: 71a88ce8e807f38b604fdb2b1f3d0a28ead6ce890551e34dca2e2dcda1e1d620
@@ -42,7 +42,7 @@ entries:
   iotagent-json:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-06-23T09:45:06.2347491+02:00
+    created: 2019-06-23T10:16:14.0977234+02:00
     description: A Helm chart for Kubernetes
     digest: 938625f47f8e2c004ecf13d20ac53415ecc56d181e028ddb77702e5a3efb2875
     name: iotagent-json
@@ -52,7 +52,7 @@ entries:
   iotagent-lorawan:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-06-23T09:45:06.2652898+02:00
+    created: 2019-06-23T10:16:14.0992247+02:00
     description: A Helm chart for Kubernetes
     digest: 34b293fe8517aed2154b10421724029ff27bbe6224d1f305b9e019f3e0e4fc31
     name: iotagent-lorawan
@@ -62,7 +62,7 @@ entries:
   iotagent-lwm2m:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-06-23T09:45:06.274285+02:00
+    created: 2019-06-23T10:16:14.1027275+02:00
     description: A Helm chart for Kubernetes
     digest: b7141c1c8a6bce5273c753d281f7144d8ededce46c576933258214663160dd40
     name: iotagent-lwm2m
@@ -72,7 +72,7 @@ entries:
   iotagent-sigfox:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-06-23T09:45:06.2847969+02:00
+    created: 2019-06-23T10:16:14.1037288+02:00
     description: A Helm chart for Kubernetes
     digest: 47e4f353ab33425673a761230fcad3744156fecf152cb01de7c97ed4612e2d79
     name: iotagent-sigfox
@@ -82,7 +82,7 @@ entries:
   iotagent-ul:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-06-23T09:45:06.3348414+02:00
+    created: 2019-06-23T10:16:14.1122357+02:00
     description: A Helm chart for Kubernetes
     digest: ea0a0e80107ba3e0a6fc74f350e4cba987e5ce5732f0ff628091273b7c1cadd7
     name: iotagent-ul
@@ -92,7 +92,7 @@ entries:
   keyrock:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-06-23T09:45:06.3923924+02:00
+    created: 2019-06-23T10:16:14.1182411+02:00
     description: A Helm chart for Kubernetes
     digest: c3f64a812e93fbf6742a4d6b4298e23239e7b8e731768ab9f111e4dbf7642a7d
     name: keyrock
@@ -101,7 +101,7 @@ entries:
     version: 0.1.0
   mongodb-replicaset:
   - appVersion: "3.6"
-    created: 2019-06-23T09:45:06.4039178+02:00
+    created: 2019-06-23T10:16:14.1217447+02:00
     description: NoSQL document-oriented database that stores JSON-like documents
       with dynamic schemas, simplifying the integration of data in content-driven
       applications.
@@ -123,7 +123,7 @@ entries:
   mosquitto:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-06-23T09:45:06.4224192+02:00
+    created: 2019-06-23T10:16:14.1232465+02:00
     description: A Helm chart for Kubernetes
     digest: c8dc4dacb8a3b09daa4aca40170b12856946d06aad8d3b649c0d2c134b8986aa
     name: mosquitto
@@ -132,7 +132,7 @@ entries:
     version: 0.1.0
   mysqlha:
   - appVersion: 5.7.13
-    created: 2019-06-23T09:45:06.4314419+02:00
+    created: 2019-06-23T10:16:14.1252483+02:00
     description: MySQL cluster with a single master and zero or more slave replicas
     digest: 2998150a6813dabc0d9118dfef9e004499111bd3a71e383798ee27313705be2d
     home: https://www.mysql.com/
@@ -151,7 +151,7 @@ entries:
     - https://letavia.github.io/helm-chart/mysqlha-0.4.0.old.tgz
     version: 0.4.0
   - appVersion: 5.7.13
-    created: 2019-06-23T09:45:06.5075096+02:00
+    created: 2019-06-23T10:16:14.1332568+02:00
     description: MySQL cluster with a single master and zero or more slave replicas
     digest: 2bcf38533646539bb4ff3800c3b34d4b34eed1370a9e0f8f4943fbe303b8c962
     home: https://www.mysql.com/
@@ -172,7 +172,7 @@ entries:
   orion:
   - apiVersion: v1
     appVersion: "2.0"
-    created: 2019-06-23T09:45:06.5230099+02:00
+    created: 2019-06-23T10:16:14.1377609+02:00
     description: A Helm chart for Kubernetes
     digest: f5e74d5498ec85a5e693338d79d340b16fd1551d765ba0717effe919241463b2
     name: orion
@@ -182,7 +182,7 @@ entries:
   postgres:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-06-23T09:45:06.5585555+02:00
+    created: 2019-06-23T10:16:14.1417649+02:00
     description: A Helm chart for Kubernetes
     digest: 3ff9d30214d9cc25181e072539faea65b6e9485eaa5aa1e473e99e583926bf1c
     name: postgres
@@ -192,7 +192,7 @@ entries:
   rabbitmq:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-06-23T09:45:06.5665506+02:00
+    created: 2019-06-23T10:16:14.1427662+02:00
     description: A Helm chart for Kubernetes
     digest: 5928be18f3e0879708548ebd51398f3bea301e4c89f67aeee672778b1f9b9f2e
     name: rabbitmq
@@ -202,7 +202,7 @@ entries:
   wilma:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-06-23T09:45:06.5755741+02:00
+    created: 2019-06-23T10:16:14.1452681+02:00
     description: A Helm chart for Kubernetes
     digest: ec32143ff7f79a8550ecb35cc4afcd45eb72d2e63940bc80845959629c546f0c
     name: wilma
@@ -212,11 +212,11 @@ entries:
   wirecloud:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-06-23T09:45:06.6205991+02:00
+    created: 2019-06-23T10:16:14.1527781+02:00
     description: A Helm chart for Kubernetes
     digest: f8a5a8cf41923151226716925f4715a316680f7d52847c907843e84de4b6231b
     name: wirecloud
     urls:
     - https://letavia.github.io/helm-chart/wirecloud-0.1.0.tgz
     version: 0.1.0
-generated: 2019-06-23T09:45:06.0080441+02:00
+generated: 2019-06-23T10:16:14.0812108+02:00
