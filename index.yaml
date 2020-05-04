@@ -2,9 +2,9 @@ apiVersion: v1
 entries:
   authzforce:
   - apiVersion: v1
-    appVersion: "1.0"
+    appVersion: "undefined"
     created: 2019-07-22T01:13:00.3098958+02:00
-    description: A Helm chart for Kubernetes
+    description: Fiware Authzforce generic enabler
     digest: 5b9b6a099e8869b152a34420317157ac5b9eec51cc5b75201434b0b72e04dd31
     name: authzforce
     urls:
@@ -12,7 +12,7 @@ entries:
     version: 0.1.0
   elasticsearch:
   - apiVersion: v1
-    appVersion: 6.7.0
+    appVersion: "undefined"
     created: 2019-07-22T01:13:00.3686178+02:00
     description: Flexible and powerful open source, distributed real-time search and
       analytics engine.
@@ -41,9 +41,9 @@ entries:
     version: 1.27.2
   iotagent-json:
   - apiVersion: v1
-    appVersion: "1.0"
+    appVersion: "undefined"
     created: 2019-07-22T01:13:00.4155975+02:00
-    description: A Helm chart for Kubernetes
+    description: Fiware IOTA-JSON generic enabler
     digest: 938625f47f8e2c004ecf13d20ac53415ecc56d181e028ddb77702e5a3efb2875
     name: iotagent-json
     urls:
@@ -51,9 +51,9 @@ entries:
     version: 0.1.0
   iotagent-lorawan:
   - apiVersion: v1
-    appVersion: "1.0"
+    appVersion: "undefined"
     created: 2019-07-22T01:13:00.4250514+02:00
-    description: A Helm chart for Kubernetes
+    description: Fiware IOTA-LoRaWAN generic enabler
     digest: 34b293fe8517aed2154b10421724029ff27bbe6224d1f305b9e019f3e0e4fc31
     name: iotagent-lorawan
     urls:
@@ -61,9 +61,9 @@ entries:
     version: 0.1.0
   iotagent-lwm2m:
   - apiVersion: v1
-    appVersion: "1.0"
+    appVersion: "undefined"
     created: 2019-07-22T01:13:00.4351164+02:00
-    description: A Helm chart for Kubernetes
+    description: Fiware IOTA-LWM2M generic enabler
     digest: b7141c1c8a6bce5273c753d281f7144d8ededce46c576933258214663160dd40
     name: iotagent-lwm2m
     urls:
@@ -71,9 +71,9 @@ entries:
     version: 0.1.0
   iotagent-sigfox:
   - apiVersion: v1
-    appVersion: "1.0"
+    appVersion: "undefined"
     created: 2019-07-22T01:13:00.4634902+02:00
-    description: A Helm chart for Kubernetes
+    description: Fiware IOTA-SigFox generic enabler
     digest: 47e4f353ab33425673a761230fcad3744156fecf152cb01de7c97ed4612e2d79
     name: iotagent-sigfox
     urls:
@@ -81,9 +81,9 @@ entries:
     version: 0.1.0
   iotagent-ul:
   - apiVersion: v1
-    appVersion: "1.0"
+    appVersion: "undefined"
     created: 2019-07-22T01:13:00.4926287+02:00
-    description: A Helm chart for Kubernetes
+    description: Fiware IOTA-UL generic enabler
     digest: ea0a0e80107ba3e0a6fc74f350e4cba987e5ce5732f0ff628091273b7c1cadd7
     name: iotagent-ul
     urls:
@@ -91,9 +91,9 @@ entries:
     version: 0.1.0
   keyrock:
   - apiVersion: v1
-    appVersion: "1.0"
+    appVersion: "undefined"
     created: 2019-07-22T01:13:00.5217194+02:00
-    description: A Helm chart for Kubernetes
+    description: Fiware Keyrock IdM generic enabler
     digest: c3f64a812e93fbf6742a4d6b4298e23239e7b8e731768ab9f111e4dbf7642a7d
     name: keyrock
     urls:
@@ -101,16 +101,16 @@ entries:
     version: 0.1.0
   memcached:
   - apiVersion: v1
-    appVersion: "1.0"
+    appVersion: "undefined"
     created: 2019-07-22T01:13:00.5466294+02:00
-    description: A Helm chart for Kubernetes
+    description: Powerful memory cache
     digest: 392d0cb554d5ac20d1291a6f78c5f12635774d4b616a0c862b40bb3658acb32e
     name: memcached
     urls:
     - https://letavia.github.io/helm-chart/memcached-0.1.0.tgz
     version: 0.1.0
   mongodb-replicaset:
-  - appVersion: "3.6"
+  - appVersion: "undefined"
     created: 2019-07-22T01:13:00.5576243+02:00
     description: NoSQL document-oriented database that stores JSON-like documents
       with dynamic schemas, simplifying the integration of data in content-driven
@@ -132,16 +132,16 @@ entries:
     version: 3.6.1
   mosquitto:
   - apiVersion: v1
-    appVersion: "1.0"
+    appVersion: "undefined"
     created: 2019-07-22T01:13:00.5940775+02:00
-    description: A Helm chart for Kubernetes
+    description: Mosquitto messaging queue for MQTT protocol
     digest: c8dc4dacb8a3b09daa4aca40170b12856946d06aad8d3b649c0d2c134b8986aa
     name: mosquitto
     urls:
     - https://letavia.github.io/helm-chart/mosquitto-0.1.0.tgz
     version: 0.1.0
   mysqlha:
-  - appVersion: 5.7.13
+  - appVersion: undefined
     created: 2019-07-22T01:13:00.6167596+02:00
     description: MySQL cluster with a single master and zero or more slave replicas
     digest: 2bcf38533646539bb4ff3800c3b34d4b34eed1370a9e0f8f4943fbe303b8c962
@@ -162,9 +162,9 @@ entries:
     version: 0.4.0
   orion:
   - apiVersion: v1
-    appVersion: "2.0"
+    appVersion: "undefined"
     created: 2019-07-22T01:13:00.6302751+02:00
-    description: A Helm chart for Kubernetes
+    description: Fiware Orion context broker generic enabler
     digest: f5e74d5498ec85a5e693338d79d340b16fd1551d765ba0717effe919241463b2
     name: orion
     urls:
@@ -172,9 +172,9 @@ entries:
     version: 0.2.0
   postgres:
   - apiVersion: v1
-    appVersion: "1.0"
+    appVersion: "undefined"
     created: 2019-07-22T01:13:00.6402861+02:00
-    description: A Helm chart for Kubernetes
+    description: PostgreSQL database
     digest: 3ff9d30214d9cc25181e072539faea65b6e9485eaa5aa1e473e99e583926bf1c
     name: postgres
     urls:
@@ -182,9 +182,9 @@ entries:
     version: 0.1.0
   rabbitmq:
   - apiVersion: v1
-    appVersion: "1.0"
+    appVersion: "undefined"
     created: 2019-07-22T01:13:00.6492943+02:00
-    description: A Helm chart for Kubernetes
+    description: Rabbitmq messaging queue for AMQP protocol
     digest: 5928be18f3e0879708548ebd51398f3bea301e4c89f67aeee672778b1f9b9f2e
     name: rabbitmq
     urls:
@@ -192,9 +192,9 @@ entries:
     version: 0.1.0
   wilma:
   - apiVersion: v1
-    appVersion: "1.0"
+    appVersion: "undefined"
     created: 2019-07-22T01:13:00.6583028+02:00
-    description: A Helm chart for Kubernetes
+    description: Fiware Wilma pep-proxy generic enabler
     digest: ec32143ff7f79a8550ecb35cc4afcd45eb72d2e63940bc80845959629c546f0c
     name: wilma
     urls:
@@ -202,9 +202,9 @@ entries:
     version: 0.1.0
   wirecloud:
   - apiVersion: v1
-    appVersion: "1.0"
+    appVersion: "undefined"
     created: 2019-07-22T01:13:00.6673106+02:00
-    description: A Helm chart for Kubernetes
+    description: Fiware Wirecloud generic enabler
     digest: f8a5a8cf41923151226716925f4715a316680f7d52847c907843e84de4b6231b
     name: wirecloud
     urls:
